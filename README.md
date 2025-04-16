@@ -1,3 +1,6 @@
+> [!WARNING]
+> Moved to https://codeberg.org/asdil12/chatserver-mopp-udp
+
 # chatserver-mopp-udp
 Simple chat server for [Morserino-32](https://github.com/oe1wkl/Morserino-32) using the 
 [MOPP protocol](https://github.com/Morse-Code-over-IP/protocol-mopp) over UDP.
